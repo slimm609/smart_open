@@ -69,6 +69,6 @@ setup(
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
         'Topic :: System :: Distributed Computing',
-        'Topic :: Database :: Front-Ends',
+        'Topic :: Database :: Front-Ends'
     ],
 )
