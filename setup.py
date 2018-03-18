@@ -33,7 +33,7 @@ setup(
 
     author=u'Radim Řehůřek'.encode('utf-8'),
     author_email='me@radimrehurek.com',
-    maintainer=u'Radim Řehůřek'.encode('utf-8').encode('utf-8'),
+    maintainer=u'Radim Řehůřek'.encode('utf-8'),
     maintainer_email='me@radimrehurek.com',
 
     url='https://github.com/piskvorky/smart_open',
